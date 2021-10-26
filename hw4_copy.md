@@ -58,6 +58,8 @@ We will use the following definitions:
 
 To begin, given the above definitions, load `cohort_labels.csv` and `ADMISSIONS.csv` and derive the binary classification labels for septic shock and the corresponding index times for each patient in the dataframe. The result should be a dataframe with one row per patient and additional columns for `index_time` and `label`.
 
+Insert code here blah blah blah etc
+
 How many patients receive a positive or negative label?
 
 ----
