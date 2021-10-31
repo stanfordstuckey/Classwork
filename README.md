@@ -1,2 +1,3 @@
-# VeryFirstRepos
-Just a test repository to become familiar with GitHub
+# Stanford Classwork Repository
+
+This is a repository created to story my classwork I do during my graduate studies from various different classes. 
